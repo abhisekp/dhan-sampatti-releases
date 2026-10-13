@@ -20,4 +20,4 @@ Windows downloads are installers for 64-bit Windows. Direct-download installers 
 
 Release candidates are marked pre-release and their notes describe completed checks and remaining verification. Check the SHA-256 checksum against the accompanying file before installing a downloaded binary.
 
-[Privacy policy](https://dhan-sampatti.app.abhisekp.com/privacy)
+[Privacy policy](PRIVACY.md)
