@@ -16,9 +16,10 @@ Rent and taxes are capped at the payer's balance. Players with ₹0 remain in pl
 
 The game saves locally. Use Export save and Import save to move a game between devices or website addresses. Browser storage for the Vercel address and custom domain is separate. Keep an exported copy before replacing a saved game.
 
-Windows downloads are installers for 64-bit Windows. Direct-download installers are currently unsigned; Windows may show a publisher warning. Store publication is a separate process and is pending. [Download the signed Android APK preview](https://github.com/abhisekp/dhan-sampatti-releases/releases/download/v1.0.0-preview/Dhan-Sampatti-1.0.0-Android.apk) for Android 7 and later. Package identity and signing were verified; the downloaded APK passed complete turns and reload/resume on an emulator. Google Play publication is also pending.
+Windows downloads are installers for 64-bit Windows. Direct-download installers are currently unsigned; Windows may show a publisher warning. Store publication is a separate process and is pending. [Download the signed Android APK preview](https://github.com/abhisekp/dhan-sampatti-releases/releases/download/v1.1.0-preview/Dhan-Sampatti-1.1.0-Android.apk) for Android 7 and later. Package identity and signing were verified; the downloaded APK passed complete turns and reload/resume on an emulator. Google Play publication is also pending.
 
 Release candidates are marked pre-release and their notes describe completed checks and remaining verification. Check the SHA-256 checksum against the accompanying file before installing a downloaded binary.
 
 [Privacy policy](PRIVACY.md)
+
 
